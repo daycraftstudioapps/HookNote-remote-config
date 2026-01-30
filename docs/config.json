@@ -1,0 +1,19 @@
+{
+  "min_supported_version": 5,
+  "ads_enabled": false,
+  "feedback_mode": "form",
+  "feedback_form_url_es": "https://airtable.com/app5sp4gyfPR34hBJ/pagKjKw5UBhu8V2SX/form",
+  "feedback_form_url_en": "https://airtable.com/app5sp4gyfPR34hBJ/paga5wTucu1hXKV0N/form",
+  "privacy_policy_url_en": "https://www.notion.so/Privacy-Policy-HookNotes-EN-2739b8eb5ee180da8618ca1a92cb9591",
+  "privacy_policy_url_es": "https://www.notion.so/Pol-tica-de-Privacidad-HookNotes-ES-2789b8eb5ee1805cb4dbe83cdd5daafb",
+  "android_store_url": "https://play.google.com/store/apps/details?id=com.hooknote.app&hl=en-US&ah=vo0vj9Rf9zZZDoi80xfrYQ_kDyw",
+  "message": {
+    "id": "mvp-info-1",
+    "text": "Critical text msg",
+    "type": "critical",
+    "frequency": "once_daily",
+    "startDate": "2026-01-30",
+    "endDate": "2026-02-04"
+  },
+  "maintenance_mode": false
+}
