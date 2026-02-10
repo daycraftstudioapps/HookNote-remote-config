@@ -9,7 +9,7 @@
   "android_store_url": "https://play.google.com/store/apps/details?id=com.hooknote.app",
   "message": {
     "id": "mvp-update-1",
-    "text": "Tenemos una nueva versión lista para ti ✨. Actualiza desde Settings para disfrutar de las últimas mejoras y correcciones.",
+    "text": "",
     "type": "critical",
     "frequency": "once_daily",
     "startDate": "2026-01-30",
