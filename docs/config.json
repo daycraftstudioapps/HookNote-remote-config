@@ -10,6 +10,8 @@
   "message": {
     "id": "mvp-update-1",
     "text": "",
+    "text_es": "",
+    "text_en": "",
     "type": "critical",
     "frequency": "once_daily",
     "startDate": "2026-01-30",
