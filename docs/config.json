@@ -10,17 +10,17 @@
   "message": {
     "id": "mvp-update-1",
     "title_en": "",
-    "title_es": "",
+    "title_es": "¡Ya estamos a la mitad!",
     "text": "",
-    "text_es": "",
+    "text_es": "¡Hola equipo! 👋\n\nYa llevamos 7 días consecutivos cumpliendo con los requisitos de Google. 🚀\n\nSolo necesitamos mantener este ritmo una semana más para poder publicar la versión final.\n\n¡Gracias por vuestra ayuda!",
     "text_en": "",
     "action_label_es": "",
     "action_label_en": "",
     "action_url": "",
-    "type": "critical",
-    "frequency": "once_daily",
+    "type": "sheet",
+    "frequency": "always",
     "startDate": "2026-01-30",
-    "endDate": "2026-02-11"
+    "endDate": "2026-02-18"
   },
   "maintenance_mode": false
 }
