@@ -18,7 +18,7 @@
     "action_label_en": "",
     "action_url": "",
     "type": "sheet",
-    "frequency": "always",
+    "frequency": "once_ever",
     "startDate": "2026-01-30",
     "endDate": "2026-02-18"
   },
