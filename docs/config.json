@@ -9,11 +9,11 @@
   "android_store_url": "https://play.google.com/store/apps/details?id=com.hooknote.app",
   "message": {
     "id": "mvp-test",
-    "title_en": "",
+    "title_en": "We're halfway there!",
     "title_es": "¡Ya estamos a la mitad!",
     "text": "¡Hola equipo! 👋\n\nYa llevamos 7 días consecutivos cumpliendo con los requisitos de Google. 🚀\n\nSolo necesitamos mantener este ritmo una semana más para poder publicar la versión final.\n\n¡Gracias por vuestra ayuda!",
     "text_es": "¡Hola equipo! 👋\n\nYa llevamos 7 días consecutivos cumpliendo con los requisitos de Google. 🚀\n\nSolo necesitamos mantener este ritmo una semana más para poder publicar la versión final.\n\n¡Gracias por vuestra ayuda!",
-    "text_en": "",
+    "text_en": "Hello team! 👋\n\nWe have now been meeting Google's requirements for seven consecutive days. 🚀\n\nWe just need to keep up this pace for one more week to be able to publish the final version.\n\nThank you for your help!",
     "action_label_es": "",
     "action_label_en": "",
     "action_url": "",
