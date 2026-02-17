@@ -1,5 +1,5 @@
 {
-  "min_supported_version": 11,
+  "min_supported_version": 5,
   "ads_enabled": false,
   "feedback_mode": "form",
   "feedback_form_url_es": "https://airtable.com/app5sp4gyfPR34hBJ/pagKjKw5UBhu8V2SX/form",
