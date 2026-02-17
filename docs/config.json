@@ -1,5 +1,5 @@
 {
-  "min_supported_version": 5,
+  "min_supported_version": 11,
   "ads_enabled": false,
   "feedback_mode": "form",
   "feedback_form_url_es": "https://airtable.com/app5sp4gyfPR34hBJ/pagKjKw5UBhu8V2SX/form",
@@ -22,5 +22,5 @@
     "startDate": "2026-01-30",
     "endDate": "2026-02-19"
   },
-  "maintenance_mode": true
+  "maintenance_mode": false
 }
