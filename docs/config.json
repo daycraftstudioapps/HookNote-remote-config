@@ -11,8 +11,8 @@
     "id": "mvp-test",
     "title_en": "We're halfway there!",
     "title_es": "¡Ya estamos a la mitad!",
-    "text": "¡Hola equipo! 👋\n\nYa llevamos 8 días consecutivos cumpliendo con los requisitos de Google. 🚀\n\nSolo necesitamos mantener este ritmo una semana más para poder publicar la versión final.\n\n¡Gracias por vuestra ayuda!",
-    "text_es": "¡Hola equipo! 👋\n\nYa llevamos 8 días consecutivos cumpliendo con los requisitos de Google. 🚀\n\nSolo necesitamos mantener este ritmo una semana más para poder publicar la versión final.\n\n¡Gracias por vuestra ayuda!",
+    "text": "¡Hola equipo! 👋\n\nYa llevamos 10 días consecutivos cumpliendo con los requisitos de Google. 🚀\n\nSolo necesitamos mantener este ritmo una semana más para poder publicar la versión final.\n\n¡Gracias por vuestra ayuda!",
+    "text_es": "¡Hola equipo! 👋\n\nYa llevamos 10 días consecutivos cumpliendo con los requisitos de Google. 🚀\n\nSolo necesitamos mantener este ritmo una semana más para poder publicar la versión final.\n\n¡Gracias por vuestra ayuda!",
     "text_en": "Hello team! 👋\n\nWe have now been meeting Google's requirements for seven consecutive days. 🚀\n\nWe just need to keep up this pace for one more week to be able to publish the final version.\n\nThank you for your help!",
     "action_label_es": "",
     "action_label_en": "",
@@ -20,7 +20,7 @@
     "type": "sheet",
     "frequency": "once_ever",
     "startDate": "2026-01-30",
-    "endDate": "2026-02-19"
+    "endDate": "2026-02-20"
   },
   "maintenance_mode": false
 }
