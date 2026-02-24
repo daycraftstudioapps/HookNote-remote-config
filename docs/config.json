@@ -9,18 +9,17 @@
   "android_store_url": "https://play.google.com/store/apps/details?id=com.hooknote.app",
   "message": {
     "id": "mvp-test",
-    "title_en": "We're halfway there!",
-    "title_es": "¡Ya estamos a la mitad!",
-    "text": "¡Hola equipo! 👋\n\nYa llevamos 10 días consecutivos cumpliendo con los requisitos de Google. 🚀\n\nSolo necesitamos mantener este ritmo una semana más para poder publicar la versión final.\n\n¡Gracias por vuestra ayuda!",
-    "text_es": "¡Hola equipo! 👋\n\nYa llevamos 10 días consecutivos cumpliendo con los requisitos de Google. 🚀\n\nSolo necesitamos mantener este ritmo una semana más para poder publicar la versión final.\n\n¡Gracias por vuestra ayuda!",
-    "text_en": "Hello team! 👋\n\nWe have now been meeting Google's requirements for seven consecutive days. 🚀\n\nWe just need to keep up this pace for one more week to be able to publish the final version.\n\nThank you for your help!",
-    "action_label_es": "",
+    "title_es": "¡Lo hemos conseguido! 🎉",
+    "title_en": "We did it! 🎉",
+    "text": "¡Hola equipo! 👋\n\nGracias a todos por participar y por vuestro esfuerzo durante estos días. 🙌\n\n¡Ya hemos superado los requisitos de Google! 🚀\n\nPodéis dejar de usar la app por ahora, ya que la próxima semana se publicará oficialmente.\n\n¡Muchísimas gracias por vuestra ayuda!",
+    "text_es": "¡Hola equipo! 👋\n\nGracias a todos por participar y por vuestro esfuerzo durante estos días. 🙌\n\n¡Ya hemos superado los requisitos de Google! 🚀\n\nPodéis dejar de usar la app por ahora, ya que la próxima semana se publicará oficialmente.\n\n¡Muchísimas gracias por vuestra ayuda!",
+    "text_en": "Hello team! 👋\n\nThank you all for participating and for your effort over the past few days. 🙌\n\nWe have successfully met Google's requirements! 🚀\n\nYou can stop using the app for now, as it will be officially released next week.\n\nThank you very much for your support!"    "action_label_es": "",
     "action_label_en": "",
     "action_url": "",
     "type": "sheet",
     "frequency": "once_ever",
     "startDate": "2026-01-30",
-    "endDate": "2026-02-20"
+    "endDate": "2026-02-28"
   },
   "maintenance_mode": false
 }
